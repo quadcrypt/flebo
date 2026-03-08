@@ -201,7 +201,7 @@ if(file_exists("products.json")){
                     </li>
                     <li class="flex items-center gap-3">
                         <i class="fas fa-envelope text-blue-400"></i>
-                        <span>florenceoribhabor@gmail.com</span>
+                        <span>youremail@gmail.com</span>
                     </li>
                     <li class="flex items-center gap-3">
                         <i class="fas fa-clock text-pink-500"></i>
@@ -746,4 +746,5 @@ updateBadge();
 populateCategories();
 </script>
 </body>
+
 </html>
