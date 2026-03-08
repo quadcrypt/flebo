@@ -65,9 +65,9 @@ if(file_exists($cfgFile)){
 ============================= */
 $inlineSmtp = [
     'SMTP_HOST' => 'smtp.gmail.com',
-    'SMTP_USER' => 'obuahsilas2021@gmail.com', // your@gmail.com
-    'SMTP_PASS' => 'dejexawnqzovdxui', // app password (16 chars) or SMTP password
-    'SMTP_PORT' => 587,
+    'SMTP_USER' => 'youremail@gmail.com', // your@gmail.com
+    'SMTP_PASS' => 'yourgmailapp-password', // app password (16 chars) or SMTP password
+    'SMTP_PORT' => portnumber, //your port number
     'SMTP_SECURE' => 'tls',
 ];
 
@@ -262,4 +262,5 @@ try {
     // Include PHPMailer ErrorInfo when available
     $err = isset($mail) ? $mail->ErrorInfo : '';
     echo "Mailer Error: " . ($err ? $err : $e->getMessage());
+
 }
