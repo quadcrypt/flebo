@@ -1,0 +1,44 @@
+{
+    "user_699972aac0b3b": {
+        "id": "user_699972aac0b3b",
+        "name": "Silas Nmachi Obuah",
+        "email": "obuahsilas2021@gmail.com",
+        "phone": "07081956248",
+        "address": "No. 84 Iwofe road Port Harcourt\r\nRumuepirikom",
+        "username": "sonec",
+        "password_hash": "$2y$10$CF3OruEJ27CCXeToZkKpc.NFyBcxFgnI6IoU1PQvusARf8o72ExiW",
+        "created_at": "2026-02-21T09:54:02+01:00"
+    },
+    "user_699972ea47b94": {
+        "id": "user_699972ea47b94",
+        "name": "Divine guitar",
+        "email": "@gmail.com",
+        "phone": "0708687348",
+        "address": "No. 8uihrnilc",
+        "username": "Div",
+        "password_hash": "$2y$10$DgR1xScNykWY8vOamYD2Q.vu3R8yVhSy4tLcJJuywBmwnQGE2pExK",
+        "created_at": "2026-02-21T09:55:06+01:00"
+    },
+    "user_6999917ce2e66": {
+        "id": "user_6999917ce2e66",
+        "name": "Chibueze",
+        "email": "nnannachibueze945@gmail.com",
+        "phone": "09067503707",
+        "address": "chibuike avenue, close 15 elioparanwo road.",
+        "username": "chiboy",
+        "password_hash": "$2y$10$HT47z1ztxIhibyFg41SWTOJrdBCVc8UT6Hs.jTBMYWGuW5Ns9GUL6",
+        "created_at": "2026-02-21T12:05:33+01:00",
+        "updated_at": "2026-02-22T01:32:18+01:00"
+    },
+    "user_69999cba2d266": {
+        "id": "user_69999cba2d266",
+        "name": "odose",
+        "email": "ebosetaleodose55@gmail.com",
+        "phone": "09165852123",
+        "address": "ghkkycu gkjgyfff",
+        "username": "wisdom",
+        "password_hash": "$2y$10$5oYKqKf3uSC5EvRTt4WP8uGks55zjJTFPH3hPnZsqaxGEU1d0ha9u",
+        "created_at": "2026-02-21T12:53:30+01:00",
+        "updated_at": "2026-02-21T12:54:00+01:00"
+    }
+}
